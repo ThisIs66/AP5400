@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Educated:A Memoir",
+        "authors": ["Tara Westover", "Ren Aihong"],
+        "price": 59.00,
+        "publish_date": "2019-10"
+    },
+    {
+        "name": "Maybe You Should Talk to Someone",
+        "authors": ["Lori Gottlieb"],
+        "price": 58.00,
+        "publish_date": "2021-07"
+    },
+    {
+        "name": "Flowers for Algernon",
+        "authors": ["Daniel Keyes"],
+        "price": 36.00,
+        "publish_date": "2015-04"
+    }
+]
